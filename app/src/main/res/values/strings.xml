@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">BlueTooth</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="send">发送</string>
+    <string name="not_connected">你没有链接一个设备</string>
+    <string name="bt_not_enabled_leaving">蓝牙不可用，离开聊天室</string>
+    <string name="title_not_connected">无链接</string>
+    <string name="title_connecting">链接中...</string>
+    <string name="title_connected_to">连接到：</string>
+    <string name="text_missing">找不到待链接设备</string>
+    <string name="scanning">蓝牙设备搜索中...</string>
+    <string name="select_device">选择一个好友链接</string>
+    <string name="none_paired">没有配对好友</string>
+    <string name="none_found">附近没有发现好友</string>
+    <string name="title_paired_devices">已配对好友</string>
+    <string name="title_other_devices">其它可连接好友</string>
+    <string name="button_scan">搜索好友</string>
+    <string name="connect">我的好友</string>
+    <string name="discoverable">设置在线</string>
+    <string name="back">退出</string>
+    <string name="startVideo">开始聊天</string>
+    <string name="stopVideo">结束聊天</string>
+
+    <string name="mac_a">50:8F:4C:E4:48:9B</string><!--mi6-->
+
+<!--    <string name="mac_2">20:F4:78:04:C2:E4</string>&lt;!&ndash;k20 pro&ndash;&gt;-->
+<!--    <string name="mac_1">04:D3:B5:42:BA:26</string>-->
+<!--    <string name="mac_2">E0:40:07:B6:E5:6C</string>-->
+
+    <string name="text_not_found">链接不到设备</string>
+    <string name="text_break">设备链接中断</string>
+</resources>
